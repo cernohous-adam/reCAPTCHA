@@ -1,13 +1,13 @@
 {
-  "name": "contributte/recaptcha",
+  "name": "cernohousa/recaptcha",
   "description": "Google reCAPTCHA for Nette - Forms",
   "keywords": ["nette", "forms", "captcha", "recaptcha", "google"],
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/contributte/reCAPTCHA",
+  "homepage": "https://github.com/cernohous-adam/reCAPTCHA",
   "authors": [
     {
-      "name": "Milan Felix Šulc",
+      "name": "Fork of Milan Felix Šulc",
       "homepage": "https://f3l1x.io"
     }
   ],
