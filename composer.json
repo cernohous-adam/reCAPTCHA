@@ -25,7 +25,7 @@
     "ninjify/nunjuck": "^0.2.1"
   },
   "conflict": {
-    "nette/http": "<2.4.0"
+    "nette/http": "<2.3.13"
   },
   "autoload": {
     "psr-4": {
